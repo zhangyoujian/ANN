@@ -1,2 +1,2 @@
 # ANN
-neuralnetWork for regression by C++ language
+neural netWork for regression implement by C++ language
